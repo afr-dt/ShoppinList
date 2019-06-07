@@ -16,6 +16,8 @@ graphene = "*"
 graphene-sqlalchemy = "*"
 pyjwt = "*"
 python-dotenv = "*"
+psycopg2 = "*"
+flask-script = "*"
 
 [requires]
 python_version = "3.7"

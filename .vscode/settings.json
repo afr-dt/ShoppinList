@@ -1,0 +1,6 @@
+{
+
+  // This section settings python code
+  "python.formatting.provider": "autopep8",
+  "python.pythonPath": "/Users/afr/.local/share/virtualenvs/flask-gql-foncIN9w/bin/python"
+}
